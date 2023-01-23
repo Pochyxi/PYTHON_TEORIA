@@ -24,7 +24,7 @@
 #     Usando un semplice editor di testi
 #         Blocco note, NotePad++, Atom, vi, gedit, ...
 #
-# Usate il metodo ed il tool con cui vi trovate più a vostro agio
+# Usate il metodo e il tool con cui vi trovate più a vostro agio
 
 # COMPONENTI DI UN IDE
 #########################################################################
@@ -69,7 +69,7 @@ print()
 print("LE VARIABILI")
 print("b subisce le stesse modifiche di a >>>>>>", b)
 
-# in questo esempio abbiamo dichiarato a che punta alla stringa "prova
+# in questo esempio abbiamo dichiarato a che punta alla stringa "prova"
 # b che punta alla stessa stringa che punta a
 # tutto quello che succede ad a quindi succede anche a b
 
